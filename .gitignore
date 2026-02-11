@@ -1,0 +1,26 @@
+# Runtime / logs
+logs/
+*.log
+storage/logs/
+
+# Temporary files
+tmp/
+storage/tmp/
+
+# Dependencies
+node_modules/
+vendor/
+
+# Build artifacts
+dist/
+build/
+
+# Uploads and user-generated files
+uploads/
+storage/uploads/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
